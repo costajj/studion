@@ -5,7 +5,7 @@
 :root {
     font-family: 'Montserrat', sans-serif;
     font-size: 16px;
-    color: var(var(--color-copy));
+    color: var(--color-copy);
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 header,
 main,
 footer {
-    overflow-x: hidd7809en;
+    overflow-x: hidden;
 }
 
 ul {

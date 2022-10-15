@@ -11,7 +11,6 @@
     border-right: unset;
     border-bottom: unset;
     opacity: 0.9;
-
 }
 
 .slider__prev-arrow {
@@ -29,7 +28,6 @@
 .slider__next-arrow::before {
     content: '';
 }
-
 
 .slide {
     position: relative;
